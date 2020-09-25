@@ -9,8 +9,7 @@
   { "id": 7, "nome":"Pizzaiolo", "Carne": "Pizza", "molho":"Mamma Mia","fav":"false" },
   { "id": 8,"nome":"Baladeiro", "Carne": "Feijão", "molho":"artesanal","fav":"false" },
   { "id": 9,"nome":"Vampiro", "Carne": "Bovina", "molho":"sangue","fav":"false" },
-  { "id": 10, "nome":"Elvis", "Carne": "beterraba", "molho":"beibe","fav":"true"},
-  ],
+  { "id": 10, "nome":"Elvis", "Carne": "beterraba", "molho":"beibe","fav":"true"},],
  "drink": [
     { "id": 1, "nome": "Água", "descricao":"hidrate-se" },
     { "id": 2, "nome": "Coca-Cola", "descricao": "Pressa em morrer?" },
