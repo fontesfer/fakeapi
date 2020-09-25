@@ -70,7 +70,7 @@
             "molho": "beibe",
             "fav": "true"
         }
-    ],
+    ]
     "drink": [
         {
             "id": 1,
@@ -92,7 +92,7 @@
             "nome": "Óleo",
             "descricao": "Você é um robô?"
         }
-    ],
+    ]
     "Não coma aqui": {
         "nome": "Volte sempre"
     }
