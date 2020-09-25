@@ -11,5 +11,4 @@
   { "id": 9,"nome":"Vampiro", "Carne": "Bovina", "molho":"sangue","fav":"false" },
   { "id": 10, "nome":"Elvis", "Carne": "beterraba", "molho":"beibe","fav":"true"},
   ],
-  "bebidas": [
-    { "id": 1, "nome": "Água", "descricao": "Boa pra matar a sede." },
+  "bebidas": [{ "id": 1, "nome": "Água", "descricao": "Boa pra matar a sede." }]
