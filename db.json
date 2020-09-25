@@ -1,0 +1,93 @@
+:[
+{
+"id": 1,
+"Burguer": "XBurguer",
+"ingredients": "Carne de Bovina, alface, queijo cheddar",
+"price": 10,
+"lov":false
+},
+{
+"id": 2,
+"name": "Vegetariano",
+"ingredients": "Carne de Shitake, rúcula, cebola caramelizada e maionese de abacate",
+"price": 15,
+"lov":true
+},
+{
+"id": 3,
+"name": "X-Egg",
+"ingredients": "Carne Bovina, alface, queijo cheddar, ovo frito",
+"price": 12,
+"lov":false
+},
+{
+"id": 4,
+"name": "X-Tudo",
+"ingredients": "Carne Bovina, alface, queijo cheddar, ovo frito, presunto, maionese, milho e ervilha",
+"price": 14,
+"lov":false,
+},
+{
+"id": 5,
+"name": "X-Tudo",
+"ingredients": "Carne Bovina, alface, queijo cheddar, ovo frito, presunto, maionese, milho e ervilha",
+"price": 16,
+"lov":false
+},
+{
+"id": 6,
+"name": "Batata Frita Especial",
+"ingredients": "Batata frita, acompanhada de queijo derretido",
+"price": 15,
+"lov":true
+},
+{
+"id": 7,
+"name": "Batata Frita",
+"ingredients": "Batata",
+"price": 13,
+"lov":false
+},
+{
+"id": 8,
+"name": "BananaSplit",
+"ingredients": "Sorvete, banana, confete e caldas variadas ",
+"price": 17,
+"lov":true
+},
+{
+"id": 9,
+"name": "Milkshake de morango",
+"ingredients": "Sorvete, morango em calda e leite ",
+"price": 13,
+"lov":true
+},
+{
+"id": 10,
+"name": "Suco de Laranja",
+"ingredients": "Laranja e água",
+"price": 7,
+"lov":false
+},
+{
+"id":11 ,
+"name": "Suco de Abacaxi com Hortelã",
+"ingredients": "Abacaxi, hortelã ",
+"price": 12,
+"lov":true
+},
+{
+"id": 12,
+"name": "Suco de Limão",
+"ingredients": "Limão com água",
+"price": 7,
+"lov":false
+},
+{
+"id":13 ,
+"name": "Coca-Cola",
+"ingredients": "Morte ",
+"price": 6,
+"lov":false
+},
+]
