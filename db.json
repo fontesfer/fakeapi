@@ -1,21 +1,99 @@
 {
-   "Food": [
-    { "id": 1, "nome":"Vegetariano", "Carne": "Shitake", "molho":"maionese de abacate","fav":"true"},
-  { "id": 2, "nome":"X-Burguer", "Carne": "Bovina", "molho":"barbecue","fav":"false" },
-  { "id": 3,"nome":"X-Egg", "Carne": "Frango", "molho":"artesanal","fav":"true" },
-  { "id": 4,"nome":"X-Salada", "Carne": "Soja", "molho":"Maionese de alho","fav":"true" },
-  { "id": 5, "nome":"Vegano", "Carne": "Grão de bicoe", "molho":"agridoce","fav":"true"},
-  { "id": 6,"nome":"Japa", "Carne": "Sushi", "molho":"japonês","fav":"false"},
-  { "id": 7, "nome":"Pizzaiolo", "Carne": "Pizza", "molho":"Mamma Mia","fav":"false" },
-  { "id": 8,"nome":"Baladeiro", "Carne": "Feijão", "molho":"artesanal","fav":"false" },
-  { "id": 9,"nome":"Vampiro", "Carne": "Bovina", "molho":"sangue","fav":"false" },
-  { "id": 10, "nome":"Elvis", "Carne": "beterraba", "molho":"beibe","fav":"true"},],"drink": [
-    { "id": 1, "nome": "Água", "descricao":"hidrate-se" },
-    { "id": 2, "nome": "Coca-Cola", "descricao": "Pressa em morrer?" },
-    { "id": 3, "nome": "Cerveja", "descricao": "Não é artesanal" },
-    { "id": 4, "nome": "Óleo", "descricao": "Você é um robô?"}
-  ],
-  "Não coma aqui": {
-    "nome": "Volte sempre"
-  }
-}]
+    "Food": [
+        {
+            "id": 1,
+            "nome": "Vegetariano",
+            "Carne": "Shitake",
+            "molho": "maionese de abacate",
+            "fav": "true"
+        },
+        {
+            "id": 2,
+            "nome": "X-Burguer",
+            "Carne": "Bovina",
+            "molho": "barbecue",
+            "fav": "false"
+        },
+        {
+            "id": 3,
+            "nome": "X-Egg",
+            "Carne": "Frango",
+            "molho": "artesanal",
+            "fav": "true"
+        },
+        {
+            "id": 4,
+            "nome": "X-Salada",
+            "Carne": "Soja",
+            "molho": "Maionese de alho",
+            "fav": "true"
+        },
+        {
+            "id": 5,
+            "nome": "Vegano",
+            "Carne": "Grão de bicoe",
+            "molho": "agridoce",
+            "fav": "true"
+        },
+        {
+            "id": 6,
+            "nome": "Japa",
+            "Carne": "Sushi",
+            "molho": "japonês",
+            "fav": "false"
+        },
+        {
+            "id": 7,
+            "nome": "Pizzaiolo",
+            "Carne": "Pizza",
+            "molho": "Mamma Mia",
+            "fav": "false"
+        },
+        {
+            "id": 8,
+            "nome": "Baladeiro",
+            "Carne": "Feijão",
+            "molho": "artesanal",
+            "fav": "false"
+        },
+        {
+            "id": 9,
+            "nome": "Vampiro",
+            "Carne": "Bovina",
+            "molho": "sangue",
+            "fav": "false"
+        },
+        {
+            "id": 10,
+            "nome": "Elvis",
+            "Carne": "beterraba",
+            "molho": "beibe",
+            "fav": "true"
+        }
+    ],
+    "drink": [
+        {
+            "id": 1,
+            "nome": "Água",
+            "descricao": "hidrate-se"
+        },
+        {
+            "id": 2,
+            "nome": "Coca-Cola",
+            "descricao": "Pressa em morrer?"
+        },
+        {
+            "id": 3,
+            "nome": "Cerveja",
+            "descricao": "Não é artesanal"
+        },
+        {
+            "id": 4,
+            "nome": "Óleo",
+            "descricao": "Você é um robô?"
+        }
+    ],
+    "Não coma aqui": {
+        "nome": "Volte sempre"
+    }
+}
