@@ -11,4 +11,13 @@
   { "id": 9,"nome":"Vampiro", "Carne": "Bovina", "molho":"sangue","fav":"false" },
   { "id": 10, "nome":"Elvis", "Carne": "beterraba", "molho":"beibe","fav":"true"},
   ],
-  "bebidas": [{ "id": 1, "nome": "Água", "descricao": "Boa pra matar a sede." }]
+ "drink": [
+    { "id": 1, "nome": "Água", "descricao":"hidrate-se" },
+    { "id": 2, "nome": "Coca-Cola", "descricao": "Pressa em morrer?" },
+    { "id": 3, "nome": "Cerveja", "descricao": "Não é artesanal" },
+    { "id": 4, "nome": "Óleo", "descricao": "Você é um robô?"}
+  ],
+  "Não coma aqui": {
+    "nome": "Volte sempre"
+  }
+}]
